@@ -39,60 +39,77 @@ Assalamualaikum, Ini adalah pratikum website saya untuk memenuhi tugas dalam mat
 
 10. Hasil/Tampilan ketika dijalankan dibrowser, maka perubahannya text tersebut menjadi berwarna dengan menambahkan property dan nilai berupa background untuk mengatur warna,       border, min-height, padding, text-align, color, display, margin dan text-decoration, dan link tersebut berubah menjadi berwarna yang menandakan bahwa tag link tersebut telah     diterapkan pada file css
 
-     ![Screenshot (183)](https://user-images.githubusercontent.com/59770620/113690686-df279800-96f5-11eb-9b15-9c5a945676de.png)![Uploading Screenshot (184).png…]()
+     ![Screenshot (183)](https://user-images.githubusercontent.com/59770620/113690686-df279800-96f5-11eb-9b15-9c5a945676de.png)
 
 
 
 
-SOAL DAN JAWABAN
+Pertanyaan dan Tugas
+
 
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
    dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
+   
    jawaban :
+   
    [1] Ini adalah tampilan codingan jika ditambahkan deklarasi CSS dengan mengubah/membuat property dan nilai pada kode css
    
-      ![Screenshot (182)](https://user-images.githubusercontent.com/59770620/113704117-f078a080-9705-11eb-888a-39fb5d4463ee.png)
-   
+      ![Screenshot (184)](https://user-images.githubusercontent.com/59770620/113884961-a10ba080-97e9-11eb-8619-c66ae5b9c2bf.png)
+
+      
    [2] Hasil/Tampilan ketika dijalankan dibrowser, maka terlihat perubahannya dari yang sebelumnya, untuk heading 1 terlihat text tersebut berbayang dan berwarna biru, dan link        tersebut terlihat garis bawah pada text, heading 1 pada bagian elemen body text tersebut menjadi rata tengah, dan border menjadi lebih tebal
 
       ![Screenshot (185)](https://user-images.githubusercontent.com/59770620/113704168-fcfcf900-9705-11eb-8bda-2697c152193e.png)
    
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan
    penjelasannya!
-   jawaban : perbedaannya yaitu elemen h1 untuk mengubah nilai text pada dokumen html yg menggunakan tag h1 pada elemen-elemen dan intro h1 untuk mengubah nilai text yg ada pada    selector h1 di dokumen html agar property terlihat jauh lebih menarik difile css
+   
+   jawaban :
+   
+   perbedaannya yaitu elemen h1 untuk mengubah nilai text pada dokumen html yg menggunakan tag h1 pada elemen-elemen dan intro h1 untuk mengubah nilai text yg ada pada              selector h1 di dokumen html agar property terlihat jauh lebih menarik difile css
    
 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada
    elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan
    penjelasan dan contohnya!
-   jawaban : hasilnya pun akan terlihat sama, 
-   [1] Internal CSS adalah kode CSS yang ditulis di dalam tag style
+   
+   jawaban :
+   
+   hasilnya pun akan terlihat sama,
+   
+   [1] Internal CSS adalah kode CSS yang ditulis di dalam tag style, contoh
    
       ![Screenshot (186)](https://user-images.githubusercontent.com/59770620/113871512-305e8700-97dd-11eb-9042-7d1f7b9c2e59.png)
    
-   [2] Eksternal CSS adalah kode CSS yang ditulis terpisah dengan kode HTML
+   [2] Eksternal CSS adalah kode CSS yang ditulis terpisah dengan kode HTML, contoh
    
       ![Screenshot (187)](https://user-images.githubusercontent.com/59770620/113871835-7ddaf400-97dd-11eb-9b0a-9b4724a13926.png)
    
-   [3] Inline CSS adalah kode CSS yang ditulis langsung pada atribut elemen HTML.
+   [3] Inline CSS adalah kode CSS yang ditulis langsung pada atribut elemen HTML, contoh
    
       ![image](https://user-images.githubusercontent.com/59770620/113872129-cb576100-97dd-11eb-8fd2-d98041346ac8.png)
 
 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
    terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
    Berikan penjelasan dan contohnya!  [p id="paragraf-1" class="text-paragraf"] 
+   
    jawaban :
+   
    CSS Selector dapat berupa elemen HTML, selector class atau selector id. Penggunaan CSS selector
    disesuaikan dengan kebutuhannya. Elemen selector akan berlaku pada semua elemen tersebut.
    Untuk class dan id selector, akan berlaku pada elemen yang menggunakan class atau id tersebut.
    
    [1] Class Selector dideklarasikan dengan menambahkan tanda titk (.) sebelum nama class yang akan
-       digunakan.
+       digunakan, contoh :
     
       ![Screenshot (189)](https://user-images.githubusercontent.com/59770620/113872860-79fba180-97de-11eb-8ae7-6a3257da1b8f.png)
 
-   [2] ID Selector dideklarasikan dengan menambahkan tanda # sebelum nama id yang akan digunakan.
+   [2] ID Selector dideklarasikan dengan menambahkan tanda # sebelum nama id yang akan digunakan, contoh :
    
       ![Screenshot (190)](https://user-images.githubusercontent.com/59770620/113872986-9992ca00-97de-11eb-8fe1-b569e1b70b46.png)
+      
+      
+      
+      TERIMA KASIH
 
    
    
