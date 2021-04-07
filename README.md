@@ -29,7 +29,7 @@ Assalamualaikum, Ini adalah pratikum website saya untuk memenuhi tugas dalam mat
 
    ![Screenshot (180)](https://user-images.githubusercontent.com/59770620/113690670-dcc53e00-96f5-11eb-82ef-c32b7bf8ad08.png)
 
-8. Hasil/Tampilan ketika dijalankan dibrowser, maka terlihat perubahannya link tersebut menajadi berwarna, menandakan bahwa link tersebut sudah terdeklarasikan pada file CSS
+8. Ini adalah tampilan codingan jika ditambahkan tag link untuk merujuk file css yang sudah dibuat pada bagian elemen head .
 
    ![Screenshot (181)](https://user-images.githubusercontent.com/59770620/113690673-dd5dd480-96f5-11eb-9fc4-26f69a056b54.png)
 
