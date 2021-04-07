@@ -76,15 +76,15 @@ Pertanyaan dan Tugas
    
    hasilnya pun akan terlihat sama,
    
-   [1] Internal CSS adalah kode CSS yang ditulis di dalam tag style, contoh
+   [1] Internal CSS adalah kode CSS yang ditulis di dalam tag style, contoh :
    
       ![Screenshot (186)](https://user-images.githubusercontent.com/59770620/113871512-305e8700-97dd-11eb-9042-7d1f7b9c2e59.png)
    
-   [2] Eksternal CSS adalah kode CSS yang ditulis terpisah dengan kode HTML, contoh
+   [2] Eksternal CSS adalah kode CSS yang ditulis terpisah dengan kode HTML, contoh :
    
       ![Screenshot (187)](https://user-images.githubusercontent.com/59770620/113871835-7ddaf400-97dd-11eb-9b0a-9b4724a13926.png)
    
-   [3] Inline CSS adalah kode CSS yang ditulis langsung pada atribut elemen HTML, contoh
+   [3] Inline CSS adalah kode CSS yang ditulis langsung pada atribut elemen HTML, contoh :
    
       ![image](https://user-images.githubusercontent.com/59770620/113872129-cb576100-97dd-11eb-8fd2-d98041346ac8.png)
 
